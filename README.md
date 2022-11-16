@@ -2,7 +2,7 @@
 
 ![Pug gif](https://media0.giphy.com/media/eBvjFITg9x6aQ/giphy.gif?cid=790b761176cb5d210eee5b782d997efbba54706f141e6333&rid=giphy.gif&ct=g)
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderManSam&hide=stars&theme=algolia)](https://github.com/CoderManSam/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderManSam&layout=compact)](https://github.com/CoderManSam/github-readme-stats)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderManSam&hide=stars&theme=algolia)](https://github.com/CoderManSam/github-readme-stats) 
 
 ##  Tech Stack
 
@@ -23,4 +23,4 @@
 
 ## Reach me here too!
 
-[!Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuel-thomas-705061256/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuel-thomas-705061256/)
