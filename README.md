@@ -6,7 +6,7 @@
 
 ##  Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,prisma,postgres,express,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
 ##  Currently Learning 
 
