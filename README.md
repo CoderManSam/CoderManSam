@@ -16,12 +16,8 @@
 - Recent [Boolean UK](https://github.com/boolean-uk) full stack developer bootcamp graduate
 - Looking for roles as a Junior Software Developer
 - Love learning new tech, concepts, and enhancing my skills
-- Currently working on my [TTRPG Virtual Shop project](https://github.com/CoderManSam/ttrpg-virtual-shop)
+- Currently working on my [Dice Game App](https://github.com/CoderManSam/dice-game)
 - Outside of coding I spend my spare time on D&D, video games, hiking, parkour, and learning Japanese
-
-## Reach me here too!
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuel-thomas-705061256/)
-
+- Reach me on [Linkedin](https://www.linkedin.com/in/samuel-thomas-705061256/)
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderManSam&hide=stars&theme=algolia)](https://github.com/CoderManSam/github-readme-stats) 
