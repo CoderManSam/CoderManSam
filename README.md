@@ -20,4 +20,12 @@
 - Outside of coding I spend my spare time on D&D, video games, hiking, parkour, and learning Japanese
 - Reach me on [Linkedin](https://www.linkedin.com/in/samuel-thomas-705061256/)
 
+## Current Project
+
+|  Name | Repository  | Live App  |  Description | Tech Stack  | Authorization |
+|---|---|---|---|---|---|
+|  Dice Game |  [Client and Server](https://github.com/CoderManSam/dice-game) |   |   |  [![My Skills](https://skillicons.dev/icons?i=ts,tailwind,nextjs)](https://skillicons.dev) |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderManSam&hide=stars&theme=algolia)](https://github.com/CoderManSam/github-readme-stats) 
