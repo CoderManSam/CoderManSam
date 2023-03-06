@@ -8,7 +8,7 @@
 
 ##  Currently Learning 
 
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,nextjs)](https://skillicons.dev)
 
 ## About Me
 
