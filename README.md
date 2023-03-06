@@ -24,8 +24,6 @@
 
 |  Name | Repository  | Live App  |  Description | Tech Stack  | Authorization |
 |---|---|---|---|---|---|
-|  Dice Game |  [Client and Server](https://github.com/CoderManSam/dice-game) |   |   |  [![My Skills](https://skillicons.dev/icons?i=ts,tailwind,nextjs)](https://skillicons.dev) |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+|  Dice Game |  [Client and Server](https://github.com/CoderManSam/dice-game) |   |  A simple single-page dice game that can be played either against an AI without requiring an account, or against a second player online by using an account |  [![My Skills](https://skillicons.dev/icons?i=ts,react,prisma,nodejs,nextjs,tailwind)](https://skillicons.dev) |   |
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderManSam&hide=stars&theme=algolia)](https://github.com/CoderManSam/github-readme-stats) 
