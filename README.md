@@ -29,11 +29,7 @@
 ## My Other Projects
 
 |  Name | Repository  | Live App  |  Description | Tech Stack  | Authorization |
-|---|---|---|---|---|
-|  Cohort Manager | [Client](https://github.com/CoderManSam/team-dev-client-c6) and [Server](https://github.com/CoderManSam/team-dev-server-c6) | [Live App](https://cohortmanager.netlify.app/)  |  A cohort manager worked on together with the rest of my class |  [![My Skills](https://skillicons.dev/icons?i=js,react,prisma,nodejs,postgres,express)](https://skillicons.dev) | Email/Username: teacher@teacher.com and Password: 123 to access site |
-
-|  Name | Repository  | Live App  |  Description | Tech Stack  | Authorization |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 |  Cohort Manager | [Client](https://github.com/CoderManSam/team-dev-client-c6) and [Server](https://github.com/CoderManSam/team-dev-server-c6) | [Live App](https://cohortmanager.netlify.app/)  |  A cohort manager worked on together with the rest of my class |  [![My Skills](https://skillicons.dev/icons?i=js,react,prisma,nodejs,postgres,express)](https://skillicons.dev) | Email/Username: teacher@teacher.com and Password: 123 to access site |
 |  TTRPG Virtual Shop | [Client and Server](https://github.com/CoderManSam/ttrpg-virtual-shop)  |   |  App where you can create your own virtual representations of TTRPG shops with your own items. Players can view and purchase items from these shops as though they were actually visiting them |  [![My Skills](https://skillicons.dev/icons?i=js,react,prisma,nodejs,postgres,express,bootstrap,materialui)](https://skillicons.dev) | |
 
