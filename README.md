@@ -23,4 +23,5 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuel-thomas-705061256/)
 
+
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderManSam&hide=stars&theme=algolia)](https://github.com/CoderManSam/github-readme-stats) 
