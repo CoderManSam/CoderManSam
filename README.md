@@ -24,6 +24,7 @@
 
 |  Name | Repository  | Live App  |  Description | Tech Stack  | Authorization |
 |---|---|---|---|---|---|
+|  Alpaca App Dashboard Visualisations |  Company source code - Repository unavailable |   |  Creating data visualisations for Learnovate Centre's Alpaca app (Assessing Letter knowledge and Phonemic Awareness Classroom App). Utilising different JS visualisation libraries to test different visualisation options for use within the Alpaca App. Project goal is to provide a range of different visualisation options to determine which are the most readable and informative to improve user experience |  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev) |   |
 |  Dice Game |  [Client and Server](https://github.com/CoderManSam/dice-game) |   |  A simple single-page dice game that can be played either against an AI without requiring an account, or against a second player online by using an account |  [![My Skills](https://skillicons.dev/icons?i=ts,react,prisma,nodejs,nextjs,tailwind)](https://skillicons.dev) |   |
 
 ## My Other Projects
