@@ -15,7 +15,7 @@
 - Full Stack Junior Software Developer
 - Recent [Boolean UK](https://github.com/boolean-uk) full stack developer bootcamp graduate
 - Love learning new tech, concepts, and enhancing my skills
-- My next project ill be a [Dice Game App](https://github.com/CoderManSam/dice-game)
+- My next project will be a [Dice Game App](https://github.com/CoderManSam/dice-game)
 - Outside of coding I spend my spare time on D&D, video games, hiking, parkour, and learning Japanese
 - Reach me on [Linkedin](https://www.linkedin.com/in/samuel-thomas-705061256/)
 
